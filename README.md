@@ -9,3 +9,5 @@ Programa: Ingeniería Industrial
 Nombre: David Arango Pineda  
 Cédula: 1000758519  
 Programa: Ingeniería de Sistemas
+
+Segunda entrega: https://youtu.be/WBYTMCIMs0I

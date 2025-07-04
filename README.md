@@ -10,4 +10,6 @@ Nombre: David Arango Pineda
 Cédula: 1000758519  
 Programa: Ingeniería de Sistemas
 
-Segunda entrega: https://youtu.be/WBYTMCIMs0I
+Segunda entrega: https://www.youtube.com/watch?v=WBYTMCIMs0I
+
+Entrega Final: https://www.youtube.com/watch?v=YLTpDtKrxjY
